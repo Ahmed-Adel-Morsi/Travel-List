@@ -1,4 +1,4 @@
-# Travel List
+# Far Away (Travel List App)
 
 A simple travel packing list app built with React. Add items you plan to take, mark them as packed, sort the list, and track how ready you are to travel.
 
