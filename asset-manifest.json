@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ahmed-Adel-Morsi/Travel-List/static/css/main.9f5c1ee8.css",
+    "main.js": "/Ahmed-Adel-Morsi/Travel-List/static/js/main.406424f3.js",
+    "index.html": "/Ahmed-Adel-Morsi/Travel-List/index.html",
+    "main.9f5c1ee8.css.map": "/Ahmed-Adel-Morsi/Travel-List/static/css/main.9f5c1ee8.css.map",
+    "main.406424f3.js.map": "/Ahmed-Adel-Morsi/Travel-List/static/js/main.406424f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f5c1ee8.css",
+    "static/js/main.406424f3.js"
+  ]
+}
